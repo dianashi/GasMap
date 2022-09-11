@@ -1,4 +1,4 @@
-# GasMap <img src=https://user-images.githubusercontent.com/83667515/189502568-2a1372e8-7f04-41de-815b-e067885d9bcb.jpeg height="40">
+# GasMap <img src=https://user-images.githubusercontent.com/83667515/189546828-5bd23077-6bd9-4808-bf34-caa3d16d7021.jpeg height="40">
 
 iOS app built by [Kevin Jin](https://github.com/kevin21jin) & [Diana Shi](https://github.com/dianashi)
 
