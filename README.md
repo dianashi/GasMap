@@ -13,3 +13,34 @@ GasMap is a mobile iOS app that displays the locations of nearby gas stations. T
 
 - Technologies used: Swift, Storyboard, GoogleMaps & GooglePlaces APIs
 - Design pattern: Model, View, View-Model (MVVM)
+
+## Project Setup
+
+#### Step 1
+
+```
+git clone https://github.com/kevin21jin/GasMap.git
+```
+Clone the repository
+
+#### Step 2
+
+```
+cd GasMap
+pod install
+```
+Navigate to the directory and install pods
+
+#### Step 3
+
+Open the file ```./GasMap/Networks/KeyProvider.swift``` and insert your own Google Maps API key
+```swift
+struct KeyProvider {
+    // Enter your API key here
+    var googleMapsAPIKey: String = ""
+}
+```
+
+#### Step 4
+
+Open ```./GasMap.xcworkspace```, build and run the project with Xcode
